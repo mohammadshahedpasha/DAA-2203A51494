@@ -7,3 +7,6 @@ ASSIGNMENT WEEK 1-1:  :https://github.com/mohammadshahedpasha/DAA-2203A51494/blo
 
 
 ASSIGNMENT WEEK 1-2:  :https://github.com/mohammadshahedpasha/DAA-2203A51494/blob/main/week1-2%20(using%20selection%20sort).c
+
+
+ASSIGNMENT WEEK 1-3:  :https://github.com/mohammadshahedpasha/DAA-2203A51494/blob/main/week1-3(using%20selection%20sort.c)
